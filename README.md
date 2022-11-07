@@ -1,2 +1,1 @@
-# Gr-ficos-colaboraty
-Desenvolvendo gráficos de barra, dispersão e pizza.
+Gráficos Colaboratory: Este é um repositório com gráficos gerados em barra, dispersão e pizza.
